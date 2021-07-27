@@ -10,6 +10,7 @@ making bad practices difficult</em>
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 
 # Principles
+- [Clean Code Fundamentals](https://www.youtube.com/watch?v=Wibk0IfjfaI&t=8s)
 - [Aha Programming](https://kentcdodds.com/blog/aha-programming)
 - [Naming clarity and brevity](https://signalvnoise.com/posts/3250-clarity-over-brevity-in-variable-and-method-names)
 - [Engineering Values](https://laptrinhx.com/engineering-values-765015182/)
@@ -20,6 +21,7 @@ making bad practices difficult</em>
 - [Go faster, slow down](https://www.infoq.com/articles/slow-down-go-faster/)
 - [Every developer should be an architect](https://dzone.com/articles/the-architect-title-over-specialization)
 - [Iron Triangle](https://www.visual-paradigm.com/project-management/what-is-iron-triangle-of-projects/)
+
 # Best Practices
 - [Javascript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [React Folder Structure](https://www.robinwieruch.de/react-folder-structure)
