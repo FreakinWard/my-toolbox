@@ -43,6 +43,7 @@ making bad practices difficult</em>
 - [Coolers Palette](https://coolors.co/e4572e-29335c-f3a712-a8c686-669bbc)
 - [brew package manager](https://brew.sh/)
 - [zsh](https://ohmyz.sh/)
+- [cleanshot](https://cleanshot.com/) - [brew cask](https://formulae.brew.sh/cask/cleanshot)   
 
 # Blogs
 - [Kent C Dodds](https://kentcdodds.com/blog/)
