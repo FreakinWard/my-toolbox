@@ -27,6 +27,7 @@ making bad practices difficult</em>
 - [React Folder Structure](https://www.robinwieruch.de/react-folder-structure)
 - [Javascript Naming](https://www.robinwieruch.de/javascript-naming-conventions)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+- [Pull Request Etiquette](https://hackernoon.com/pull-request-etiquette-20-core-principles-for-handling-prs-as-a-software-developer-a76l3yek]
 
 # React
 - [React component architectural attributes](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
