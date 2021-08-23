@@ -27,9 +27,10 @@ making bad practices difficult</em>
 - [React Folder Structure](https://www.robinwieruch.de/react-folder-structure)
 - [Javascript Naming](https://www.robinwieruch.de/javascript-naming-conventions)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
-- [Pull Request Etiquette](https://hackernoon.com/pull-request-etiquette-20-core-principles-for-handling-prs-as-a-software-developer-a76l3yek]
+- [Pull Request Etiquette](https://hackernoon.com/pull-request-etiquette-20-core-principles-for-handling-prs-as-a-software-developer-a76l3yek)
 
 # React
+- [5 Best Practices for React Developers](https://www.educative.io/blog/best-practices-react-developer#1)
 - [React component architectural attributes](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
 - [Breaking up components](https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components)
 - [Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
