@@ -43,6 +43,7 @@ making bad practices difficult</em>
 # React
 
 ## Getting Started
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Javascript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [5 Best Practices for React Developers](https://www.educative.io/blog/best-practices-react-developer#1)
 
@@ -79,13 +80,19 @@ making bad practices difficult</em>
 - [SOLID Principles](https://cleancoders.com/series/clean-code)
 
 # Books
+## Dev
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=1C6AKTPHDL6N5&dchild=1&keywords=pragmatic+programmer&qid=1625860217&sprefix=pragmati%2Caps%2C305&sr=8-1)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1625860079&sr=8-1)
 - [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_2?dchild=1&keywords=clean+coder&qid=1625860133&sr=8-2)
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1625860183&sr=8-1)
+
+## DevOps
 - [Agile Conversations](https://www.amazon.com/gp/product/B07YZP8LC9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [The DevOps Handbook](https://www.amazon.com/gp/product/B01M9ASFQ3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [The Unicorn Project](https://www.amazon.com/gp/product/B07QT9QR41/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+
+
 - [Good to Great](https://www.amazon.com/gp/product/0066620996/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Eat That Frog](https://www.amazon.com/gp/product/B001AFF25W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
