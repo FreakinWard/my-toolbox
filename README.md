@@ -46,6 +46,7 @@ making bad practices difficult</em>
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Javascript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [5 Best Practices for React Developers](https://www.educative.io/blog/best-practices-react-developer#1)
+- [Component Abstraction](https://epicreact.dev/one-react-mistake-thats-slowing-you-down/)
 
 ## Components
 - [React component architectural attributes](https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/)
