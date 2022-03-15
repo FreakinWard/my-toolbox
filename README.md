@@ -33,6 +33,7 @@ making bad practices difficult</em>
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 - [PascalCase, camelCase, and snake_case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+- [React Design Patterns](https://www.patterns.dev/posts/introduction/)
 
 # Tools
 - [Coolers Palette](https://coolors.co/e4572e-29335c-f3a712-a8c686-669bbc)
