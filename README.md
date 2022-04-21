@@ -31,6 +31,7 @@ making bad practices difficult</em>
 - [React Folder Structure](https://www.robinwieruch.de/react-folder-structure)
 - [Javascript Naming](https://www.robinwieruch.de/javascript-naming-conventions)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+- [Utility helpers are evil, sometimes neccesary](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html#utility-classes-are-evil)
 - [PascalCase, camelCase, and snake_case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 - [React Design Patterns](https://www.patterns.dev/posts/introduction/)
