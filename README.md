@@ -82,6 +82,9 @@ making bad practices difficult</em>
 - [Clean Code](https://cleancoders.com/series/clean-code)
 - [SOLID Principles](https://cleancoders.com/series/clean-code)
 
+# Azure DevOps
+- [Understanding Azure DevOps Pipelin Variables](https://adamtheautomator.com/azure-devops-variables/)
+
 # Books
 ## Dev
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=1C6AKTPHDL6N5&dchild=1&keywords=pragmatic+programmer&qid=1625860217&sprefix=pragmati%2Caps%2C305&sr=8-1)
