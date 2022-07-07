@@ -17,6 +17,9 @@ making bad practices difficult</em>
 - [Boy Scout Rule](https://biratkirat.medium.com/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 - [YAGNI](https://deviq.com/principles/yagni)
 
+# Team Focused
+- [Scrum Dysfunctions](https://www.youtube.com/watch?v=HURvJDldVGA&ab_channel=HealthySoftwareDeveloper)
+
 ## Code Reviews
 - [Code Review Guidelines](https://phauer.com/2018/code-review-guidelines/)
 - [Pull Request Etiquette](https://hackernoon.com/pull-request-etiquette-20-core-principles-for-handling-prs-as-a-software-developer-a76l3yek)
