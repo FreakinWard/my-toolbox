@@ -86,7 +86,7 @@ making bad practices difficult</em>
 - [SOLID Principles](https://cleancoders.com/series/clean-code)
 
 # Azure DevOps
-- [Understanding Azure DevOps Pipelin Variables](https://adamtheautomator.com/azure-devops-variables/)
+- [Understanding Azure DevOps Pipeline Variables](https://adamtheautomator.com/azure-devops-variables/)
 
 # Books
 ## Dev
