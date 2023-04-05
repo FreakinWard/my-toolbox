@@ -44,7 +44,7 @@ making bad practices difficult</em>
 - [Coolers Palette](https://coolors.co/e4572e-29335c-f3a712-a8c686-669bbc)
 - [brew package manager](https://brew.sh/)
 - [zsh](https://ohmyz.sh/)
-- [cleanshot](https://cleanshot.com/) - [brew cask](https://formulae.brew.sh/cask/cleanshot)
+- [cleanshot](https://formulae.brew.sh/cask/cleanshot)
 
 # React
 
@@ -90,19 +90,22 @@ making bad practices difficult</em>
 - [Understanding Azure DevOps Pipeline Variables](https://adamtheautomator.com/azure-devops-variables/)
 
 # Books
+
 ## Dev
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=1C6AKTPHDL6N5&dchild=1&keywords=pragmatic+programmer&qid=1625860217&sprefix=pragmati%2Caps%2C305&sr=8-1)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?dchild=1&keywords=clean+code&qid=1625860079&sr=8-1)
 - [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_2?dchild=1&keywords=clean+coder&qid=1625860133&sr=8-2)
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1625860183&sr=8-1)
+- [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124)
 
 ## DevOps
-- [Agile Conversations](https://www.amazon.com/gp/product/B07YZP8LC9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [The DevOps Handbook](https://www.amazon.com/gp/product/B01M9ASFQ3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-- [The Unicorn Project](https://www.amazon.com/gp/product/B07QT9QR41/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [The DevOps Handbook](https://www.amazon.com/gp/product/B01M9ASFQ3)
+- [The Unicorn Project](https://www.amazon.com/gp/product/B07QT9QR41)
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
-
-- [Good to Great](https://www.amazon.com/gp/product/0066620996/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+## Team
+- [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Third-Talking-Stakes/dp/B09MV3818X/)
+- [Agile Conversations](https://www.amazon.com/gp/product/B07YZP8LC9)
+- [Debugging Teams](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058)
 - [Eat That Frog](https://www.amazon.com/gp/product/B001AFF25W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Good to Great](https://www.amazon.com/gp/product/0066620996/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
