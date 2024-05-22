@@ -10,7 +10,7 @@ making bad practices difficult</em>
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 
 # Developer Focused
-- [Engineering Values](https://laptrinhx.com/engineering-values-765015182/)
+- [Engineering Values](https://laptrinhx.com/engineering-values-765015182/) - [Alt Version](https://www.youtube.com/watch?v=p0O1VVqRSK0&ab_channel=ElapseTechnologies)
 - [Broken window theory](https://blog.codinghorror.com/the-broken-window-theory/)
 - [Go faster, slow down](https://www.infoq.com/articles/slow-down-go-faster/)
 - [Every developer should be an architect](https://dzone.com/articles/the-architect-title-over-specialization)
