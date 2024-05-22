@@ -37,7 +37,7 @@ making bad practices difficult</em>
 - [Utility helpers are evil, sometimes neccesary](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html#utility-classes-are-evil)
 - [PascalCase, camelCase, and snake_case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-- [React Design Patterns](https://www.patterns.dev/posts/introduction/)
+- [React Design Patterns](https://www.patterns.dev/vanilla)
 - [React state management](https://kentcdodds.com/blog/application-state-management-with-react)
 
 # Tools
