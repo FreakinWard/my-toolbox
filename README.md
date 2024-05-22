@@ -13,7 +13,7 @@ making bad practices difficult</em>
 - [Engineering Values](https://laptrinhx.com/engineering-values-765015182/) - [Alt Version](https://www.youtube.com/watch?v=p0O1VVqRSK0&ab_channel=ElapseTechnologies)
 - [Broken window theory](https://blog.codinghorror.com/the-broken-window-theory/)
 - [Go faster, slow down](https://www.infoq.com/articles/slow-down-go-faster/)
-- [Every developer should be an architect](https://dzone.com/articles/the-architect-title-over-specialization)
+- [Every developer should be an architect](https://daedtech.com/the-architect-title-over-specialization/)
 - [Boy Scout Rule](https://biratkirat.medium.com/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385)
 - [YAGNI](https://deviq.com/principles/yagni)
 
