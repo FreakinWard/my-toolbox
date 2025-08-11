@@ -79,6 +79,7 @@ making bad practices difficult</em>
 ## Free Courses
 - [Javascript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Hands on React](https://handsonreact.com/docs/)
 
 ## Paid Courses
 - [Testing Javascript](https://testingjavascript.com/)
